@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+
+.menubento{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+.logo{
+    display: flex;
+    width: 15%;
+    margin-left: 650px;
+    margin-top: -70px;
+}
+
+.notificacion{
+    display: flex;
+    margin-left: 1400px;
+    margin-top: -40px;
+    cursor: pointer;
+}
+.titulo{
+    margin-top: 50px;
+}
+
+.validar{
+    display: flex;
+    justify-content:center;
+    padding: 20px;
+    margin-left: 150px;
+    margin-top: 40px;
+    border: 1px solid #0F698C;
+    border-radius: 15px;
+    width:230px;
+    height: 190px;
+    font-size: 30px;
+    background-color:#0F698C;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.validar p{
+    margin-top: 45px;
+    font-size: 25px;
+}
+
+.validar:hover{
+    background-color: #F26513;
+    border-color: #F26513;
+    box-shadow: grey;
+}
+
+.vouchers{
+    display: flex;
+    justify-content:center;
+    padding: 20px;
+    margin-left: 450px;
+    margin-top: -190px;
+    border: 1px solid #0F698C;
+    border-radius: 15px;
+    width: 230px;
+    height: 190px;
+    font-size: 30px;
+    background-color:#0F698C;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.vouchers p{
+    margin-top: 45px;
+    font-size: 25px;
+}
+
+.vouchers:hover{
+    background-color: #F26513;
+    border-color: #F26513;
+    box-shadow: grey;
+}
+
+.certificado{
+    display: flex;
+    justify-content:center;
+    padding: 20px;
+    margin-left: 770px;
+    margin-top: -190px;
+    border: 1px solid #0F698C;
+    border-radius: 15px;
+    width: 230px;
+    height: 190px;
+    font-size: 30px;
+    background-color:#0F698C;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.certificado p{
+    margin-top: 35px;
+    font-size: 25px;
+}
+
+.certificado:hover{
+    background-color: #F26513;
+    border-color: #F26513;
+    box-shadow: grey;
+}
+
+.coleta{
+    display: flex;
+    justify-content:center;
+    padding: 20px;
+    margin-left: 1100px;
+    margin-top: -190px;
+    border: 1px solid #0F698C;
+    border-radius: 15px;
+    width: 230px;
+    height: 190px;
+    font-size: 30px;
+    background-color:#0F698C;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.coleta p{
+    margin-top: 45px;
+    font-size: 25px;
+}
+
+.coleta:hover{
+    background-color: #F26513;
+    border-color: #F26513;
+    box-shadow: grey;
+}
+
+.cadastrar{
+    display: flex;
+    justify-content:center;
+    padding: 20px;
+    margin-left: 150px;
+    margin-top: 40px;
+    border: 1px solid #0F698C;
+    border-radius: 15px;
+    width: 230px;
+    height: 190px;
+    font-size: 30px;
+    background-color:#0F698C;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.cadastrar p{
+    margin-top: 45px;
+    font-size: 25px;
+}
+
+.cadastrar:hover{
+    background-color: #F26513;
+    border-color: #F26513;
+    box-shadow: grey;
+}
+
+.evento{
+    display: flex;
+    justify-content:center;
+    padding: 20px;
+    margin-left: 450px;
+    margin-top: -190px;
+    border: 1px solid #0F698C;
+    border-radius: 15px;
+    width: 230px;
+    height: 190px;
+    font-size: 30px;
+    background-color:#0F698C;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.evento p{
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.evento:hover{
+    background-color: #F26513;
+    border-color: #F26513;
+    box-shadow: grey;
+}
+
+.consultoria{
+    display: flex;
+    justify-content:center;
+    padding: 20px;
+    margin-left: 770px;
+    margin-top: -190px;
+    border: 1px solid #0F698C;
+    border-radius: 15px;
+    width: 230px;
+    height: 190px;
+    font-size: 30px;
+    background-color:#0F698C;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.consultoria p{
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.consultoria:hover{
+    background-color: #F26513;
+    border-color: #F26513;
+    box-shadow: grey;
+}
+
+.revisao{
+    display: flex;
+    justify-content:center;
+    padding: 20px;
+    margin-left: 1100px;
+    margin-top: -190px;
+    border: 1px solid #0F698C;
+    border-radius: 15px;
+    width: 230px;
+    height: 190px;
+    font-size: 30px;
+    background-color:#0F698C;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.revisao p{
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.revisao:hover{
+    background-color: #F26513;
+    border-color: #F26513;
+    box-shadow: grey;
+}
